@@ -1,5 +1,4 @@
 #[toywar:drinkup] site page
----------------------------
 
 ##Introduction
 Hi! Documentation in progress...
